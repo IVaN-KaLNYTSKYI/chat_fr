@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.system-message {
+  color: red;
+}
+
+.user-message {
+  color: blue;
+}
